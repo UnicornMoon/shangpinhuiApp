@@ -4,6 +4,7 @@
     "module": "esnext",
     "baseUrl": "./",
     "moduleResolution": "node",
+    //配置别名
     "paths": {
       "@/*": [
         "src/*"
